@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Projects-rest-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/Projects-rest-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mantisQA.iml" filepath="$PROJECT_DIR$/.idea/modules/mantisQA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mantisQA_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mantisQA_main.iml" group="mantisQA" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mantisQA_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mantisQA_test.iml" group="mantisQA" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-sample.iml" group="mantisQA" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-sample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-sample_main.iml" group="rest-sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-sample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-sample_test.iml" group="rest-sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soup-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/soup-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soup-sample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/soup-sample_main.iml" group="soup-sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soup-sample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/soup-sample_test.iml" group="soup-sample" />
     </modules>
   </component>
 </project>
